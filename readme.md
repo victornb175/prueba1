@@ -8,3 +8,8 @@ git status
 git add .
 git commit -m "docs: conventional commits"
 ```
+
+comandos de git en remoto
+```bash
+git fetch --all
+```
